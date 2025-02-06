@@ -1,4 +1,4 @@
-﻿# Project optimisation list
+﻿# Project optimization list
 
 # Project Overview:
 ```
